@@ -1,0 +1,1077 @@
+.responsive {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header1 {
+    width: 1920px;
+    height: 950px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color: rgb(95, 69, 69);
+    justify-content: center;
+    background-image: url(./img/orqaimgg.png);
+
+
+}
+
+.headertext {
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+
+.textlar {
+    color: white;
+    gap: 30px;
+
+}
+
+.logo {
+    width: 271px;
+    height: 45.07px;
+    background-image: url(./img/Group\ 1000004419.png);
+    margin-top: 20px;
+
+
+
+
+}
+
+
+
+.nomerr {
+    width: 90px;
+    height: 23px;
+    color: white;
+
+
+}
+
+.headerbt {
+    width: 226px;
+    height: 50px;
+    border-radius: 15px;
+    border: 1px solid #0000DE;
+    background: #0000DE;
+    color: white;
+
+}
+
+.bolacontainer {
+    width: 100%;
+    height: 100px;
+    justify-content: space-evenly;
+}
+
+.pastkiyozuv {
+    width: 137px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+
+
+
+}
+
+.text1 {
+    width: 61px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.text2 {
+    width: 164px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.text3 {
+    width: 73px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.text4 {
+    width: 75px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.text5 {
+    width: 92px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+
+}
+
+.text6 {
+    width: 73px;
+    height: 26px;
+    font-family: Aeroport;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.nomerrr {
+    font-family: Aeroport;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.chiziq {
+    width: 100%;
+    height: 0.5px;
+    border: 1px solid #FFFFFF5C;
+    margin-top: 20px;
+
+}
+
+.lefttamon {
+    width: 224px;
+    height: 500px;
+    /* border: 1px solid rgb(241, 12, 12); */
+    margin-top: 20px;
+    margin-left: 70%;
+
+
+
+}
+
+.card1 {
+    width: 224px;
+    height: 115px;
+    background: #0000DE;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.card2 {
+    width: 224px;
+    height: 115px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #FFFFFF80;
+}
+
+#html {
+    width: 28px;
+    height: 28px;
+
+}
+
+#html1 {
+    width: 28px;
+    height: 28px;
+}
+
+.yozuv {
+    gap: 100px;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.yozuv_2 {
+    gap: 140px;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.yozuv_4 {
+    gap: 130px;
+    color: #FFFFFF;
+    height: 50px;
+
+}
+
+.yozuv_3 {
+    gap: 130px;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.yozuv2 {
+    width: 181px;
+    height: 26px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+
+
+}
+
+.card1text {
+    margin-left: 10px;
+}
+
+.pastiii {
+    width: 160px;
+    height: 160px;
+    background: #DD2A1B;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 29px;
+    margin-left: 50px;
+
+}
+
+.header2 {
+    width: 1900px;
+    height: 450px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+.cardd1 {
+    width: 344px;
+    height: 272px;
+    border-radius: 15px;
+    background: #ddc4c4;
+
+
+
+}
+
+.ichidagi {
+    width: 104px;
+    height: 100px;
+    border-radius: 15px;
+    background: #FFFFFF;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+
+
+
+
+
+}
+
+.rountii {
+    width: 50px;
+    height: 90px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.header2text {
+    width: 725px;
+    height: 49px;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 68.93px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.card1textt {
+    width: 292px;
+    height: 60px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+
+
+
+}
+
+.card4 {
+    width: 90%;
+    gap: 50px;
+    margin: 0 auto;
+}
+
+.header3 {
+    width: 1940px;
+    height: 378px;
+    border: 1px solid black;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.text_1 {
+    width: 411px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.text_2 {
+    width: 588px;
+    height: 93px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30.68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.header3butoon {
+    width: 344px;
+    height: 81px;
+    border-radius: 15px;
+    border: 1px solid #0000DE;
+    color: #0000DE
+}
+
+.rigtrasm {
+    width: 470px;
+    height: 299px;
+    border-radius: 25px;
+    background-image: url(./img/photo_2023-05-04_15-58-43\ 1.png);
+}
+
+.header4 {
+    width: 1940px;
+    height: 398px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+
+.header4orqasi {
+    width: 702px;
+    height: 398px;
+    border-radius: 64px 6px 64px 6px;
+    background: #0000E8;
+
+}
+
+.teel {
+    width: 336px;
+    height: 465px;
+    background-image: url(./img/tel\ 1.png);
+    margin: 0 auto;
+    position: relative;
+    bottom: 67px;
+}
+
+.hd4_text {
+    width: 551px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.hd4_text2 {
+    width: 588px;
+    height: 186px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30.68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.aios {
+    width: 216px;
+    height: 59px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+
+}
+
+.aios:hover {
+    background-image: linear-gradient(red, blue);
+    color: white;
+}
+
+.pastkiqissm {
+    gap: 35px;
+}
+
+.appletext {
+    width: 150px;
+    color: rgb(255, 30, 0);
+}
+
+.appletext:hover {
+    color: white;
+}
+
+.apleee {
+    align-items: center;
+    gap: 5px;
+}
+
+.googleplay {
+    width: 50px;
+    height: 45px;
+    padding: 5px;
+}
+
+.header5 {
+    width: 1940px;
+    height: 398px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 200px;
+    justify-content: space-evenly;
+}
+
+.header5text {
+    width: 485px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.header5text2 {
+    width: 488px;
+    height: 62px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30.68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+    margin-top: 20px;
+
+
+}
+
+.header5bt {
+    width: 344px;
+    height: 81px;
+    border-radius: 15px;
+    border: 1px solid #0000DE;
+    margin-top: 50px;
+
+}
+
+.header6 {
+    width: 1940px;
+    height: 600px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.chiziqq {
+    width: 30px;
+    height: 3px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 120px;
+}
+
+.header6text {
+    width: 338px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.headeryozuvv {
+    width: 140px;
+    margin: 0 auto;
+}
+
+.zaprafka {
+    width: 900px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: -300px;
+}
+
+.header7 {
+    width: 1940px;
+    height: 600px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.header7text {
+    width: 407px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #060628;
+
+
+}
+
+.card1 {
+    width: 224px;
+    height: 229px;
+    /* border: 1px solid black; */
+    /* background-color: white; */
+
+
+}
+
+.card1:hover {
+    /* background-color: blue; */
+    color: white;
+}
+
+.card1ichi {
+    width: 71px;
+    height: 1px;
+    margin: 0 auto;
+
+}
+
+
+.cardtext {
+    width: 78px;
+    height: 0px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.cardtext2 {
+    width: 92px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: -30px;
+
+
+}
+
+.cardlattexttt {
+    margin-top: -60px;
+    margin-left: -10px;
+}
+
+.cardbt {
+    width: 196px;
+    height: 46.15px;
+    border-radius: 10px;
+    border: 1px solid #0000DE;
+    margin-left: -50px;
+    background-color: rgb(128, 128, 153);
+    color: white;
+
+}
+
+.container {
+    gap: 20px;
+
+}
+
+.header8 {
+    width: 1947px;
+    height: 542px;
+    border: 1px solid black;
+    background: #000061;
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+
+.textlar11 {
+    width: 254px;
+    height: 29px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.textlar12 {
+    width: 66px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar13 {
+    width: 179px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar14 {
+    width: 75px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar15 {
+    width: 82px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar16 {
+    width: 188px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar17 {
+    width: 78px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar18 {
+    width: 99px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar19 {
+    width: 270px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textlar20 {
+    width: 140px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt {
+    width: 197px;
+    height: 29px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt1 {
+    width: 64px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt2 {
+    width: 344px;
+    height: 40px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt3 {
+    width: 96px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt4 {
+    width: 344px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.txt5 {
+    width: 244px;
+    height: 34px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF91;
+
+
+}
+
+.tex {
+    width: 70px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textt {
+    width: 157px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.texttt {
+    width: 134px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF91;
+
+
+
+}
+
+.textttt {
+    width: 123px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.texttttt {
+    width: 186px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF91;
+
+
+}
+
+.textttttt {
+    width: 189px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.texttttttt {
+    width: 132px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF91;
+
+
+}
+
+.textttttttt {
+    width: 216px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.texttttttttt {
+    width: 136px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF91;
+
+
+}
+
+.conteneeer {
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.xaritaaaa {
+    margin-top: 50px;
+}
